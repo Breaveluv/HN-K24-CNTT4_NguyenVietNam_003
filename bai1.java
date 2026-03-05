@@ -52,6 +52,8 @@ public class bai1 {
                     even++;
                 }
             }
+
+            
             int odd = list.size() - even;
 
             
